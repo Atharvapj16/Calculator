@@ -6,7 +6,6 @@ A simple cross platform (iOS and Android) React Native calculator app.
 
 ### Installation
 
-- `git clone https://github.com/JoaoAssalim/ReactNative-Calculator-App.git`
 - `yarn install`/`npm install`
 
 ### Running
